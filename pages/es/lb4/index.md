@@ -8,7 +8,7 @@ permalink: /doc/es/lb4/index.html
 summary: LoopBack es una plataforma para crear API y microservicios en Node.js
 ---
 
-{% include note.html content="This is a community translation into Spanish. For the latest information, see the [English version](/doc/en/lb4/index.html).
+{% include note.html content="Esta es una traducción comunitaria al español. Para obtener la información más reciente, consulte la [English version](/doc/en/lb4/index.html).
 " %}
 
 {% include important.html content="LoopBack 4 DT (Disponibilidad Total) ha sido lanzado en
